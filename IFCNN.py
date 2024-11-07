@@ -1,6 +1,3 @@
-'''---------------------------------------------------------------------------
-IFCNN: A General Image Fusion Framework Based on Convolutional Neural Network
-----------------------------------------------------------------------------'''
 import torch
 import math
 import torch.nn as nn
